@@ -3,4 +3,4 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 .python-version
-.virtual_env/
+virtual_env/
