@@ -1,1 +1,6 @@
-virtual_env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.python-version
+.virtual_env/
