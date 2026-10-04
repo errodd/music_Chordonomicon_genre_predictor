@@ -5,3 +5,4 @@ seaborn>=0.13
 jupyter>=1.1
 ipykernel>=6.29
 tqdm>=4.66
+scikit-learn>=1.5
