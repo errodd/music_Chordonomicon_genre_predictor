@@ -1,0 +1,23 @@
+{
+  "seed": 2026,
+  "test_size": 0.2,
+  "universe": "filas con main_genre no nulo",
+  "n_rows_all": 679807,
+  "n_rows_supervised": 352111,
+  "n_artists_supervised": 38057,
+  "n_artists_dev": 30445,
+  "n_artists_holdout": 7612,
+  "n_rows_holdout": 72478,
+  "duplicate_rule": "filas fuera del holdout cuyo string chords exacto aparece en el holdout",
+  "n_rows_dropped_duplicates_all": 315,
+  "n_rows_dropped_duplicates_labeled": 15,
+  "n_rows_dev_all": 607014,
+  "n_rows_dev_labeled": 279618,
+  "holdout_artists_sha256": "e57432c6dbb636e46689d6075111e3b966b4b05399afc6106e452429f5ca5aaa",
+  "versions": {
+    "python": "3.10.6",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.7.2"
+  }
+}
